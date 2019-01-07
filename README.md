@@ -1,5 +1,8 @@
 # Yashish Dua
 
+<img height="220" src="YashishDua.jpg" alt="Yashish Dua" align="center"/>
+
+#
 
 ### Sessions/Talks
 
