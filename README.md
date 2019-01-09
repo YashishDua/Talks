@@ -4,6 +4,9 @@
 
 #
 
+### Blogs
+[Medium](https://medium.com/@yashishdua)
+
 ### Sessions/Talks
 
 ##### 2019
