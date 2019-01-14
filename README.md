@@ -29,7 +29,7 @@
   - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/o-18-android-app)
   - Event Listing: [GDG New Delhi Website](https://gdgnd.org/gdg-new-delhi/events/devfest-18)
   
-- **Decoding Get set Go  [Facebook Developer Cirle - Delhi/NCR '18]** (2 April)
+- **Get set Go  [Facebook Developer Cirle - Delhi/NCR '18]** (2 April)
   - Venue: Springboard, Nodia
   - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/get-set-go)
   - Video: [Facebook](https://www.facebook.com/saransh.kataria/videos/10216284219923827/)
