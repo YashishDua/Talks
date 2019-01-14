@@ -13,6 +13,7 @@
 
 [Upcoming]
 - **Understanding Synchronization in Golang  [Women Who Go New Delhi '19]** (12 January)
+  - [Presentation Link](https://speakerdeck.com/yashishdua/synchronisation-in-go)
   - [Event Listing](https://www.meetup.com/New-Delhi-Women-Who-Go/events/257843200/)
   
   
