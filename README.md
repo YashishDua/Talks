@@ -15,6 +15,7 @@
   - Venue: [91 Springboard](https://www.91springboard.com/)
   - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/aws-lambda-stepping-into-serverless-architecture)
   - Event Listing: [Meetup](https://www.meetup.com/Hackr-Bootcamp/events/261011154/)
+  - Video: [Facebook](https://www.facebook.com/hackr.io/videos/671758289904858/)
 
 - **Understanding Synchronization in Golang  [Women Who Go New Delhi '19]** (12 January)
   - Venue: [Knoldus](https://www.knoldus.com/home.knol)
