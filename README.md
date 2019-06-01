@@ -11,6 +11,11 @@
 
 ##### 2019
 
+- **AWS Lambda - Stepping into Serverless architecture [Hackr Bootcamp]** (25 May)
+  - Venue: [91 Springboard](https://www.91springboard.com/)
+  - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/aws-lambda-stepping-into-serverless-architecture)
+  - Event Listing: [Meetup](https://www.meetup.com/Hackr-Bootcamp/events/261011154/)
+
 - **Understanding Synchronization in Golang  [Women Who Go New Delhi '19]** (12 January)
   - Venue: [Knoldus](https://www.knoldus.com/home.knol)
   - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/synchronisation-in-go)
