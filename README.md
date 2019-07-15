@@ -11,6 +11,11 @@
 
 ##### 2019
 
+- **Flowing with Context [Golang Bangalore]** (13 July)
+  - Venue: [Squadcast](https://www.squadcast.com/)
+  - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/flowing-with-context)
+  - Event Listing: [Meetup](https://www.meetup.com/Golang-Bangalore/events/262575890/)
+  
 - **AWS Lambda - Stepping into Serverless architecture [Hackr Bootcamp]** (25 May)
   - Venue: [91 Springboard](https://www.91springboard.com/)
   - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/aws-lambda-stepping-into-serverless-architecture)
