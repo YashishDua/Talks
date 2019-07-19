@@ -11,6 +11,11 @@
 
 ##### 2019
 
+- **Learning together with Open source [GDG Berlin Golang]** (17 July)
+  - Venue: [REMOTE]
+  - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/learning-together-with-open-source)
+  - Event Listing: [Meetup](https://www.meetup.com/golang-users-berlin/events/259188796/)
+
 - **Flowing with Context [Golang Bangalore]** (13 July)
   - Venue: [Squadcast](https://www.squadcast.com/)
   - Presentation: [Speakerdeck](https://speakerdeck.com/yashishdua/flowing-with-context)
